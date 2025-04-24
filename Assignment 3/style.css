@@ -1,5 +1,5 @@
 .background{
- background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+ background-image: url(https://ik.imagekit.io/abz/todolistbg.png_updatedAt=1700761069523?updatedAt=1745505855143);
  height: 500px;
  background-size: contain;
  background-repeat: no-repeat;
@@ -9,14 +9,8 @@
 .headerstyle{
     color: white;
     text-align: center;
-    margin-right: 220px;
+    padding-right: 220px;
     font-family: "Roboto";
-}
-
-.paragraphstyle{
-    color: white;
-    text-align: center;
-    margin-right: 220px;
 }
 
 .buttonstyle{
@@ -30,6 +24,6 @@
 .para{
     text-decoration: underline;
     color: white;
-    margin-left: 80px;
-    font-size: 11px;
+    padding-left: 75px;
+    font-size: 12px;
 }
